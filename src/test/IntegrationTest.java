@@ -9,7 +9,7 @@ public class IntegrationTest {
 
         System.out.println("Hello World!!");
         sayHello("Sandra");
-
+first commit
         //todo:Add multiple users
 
     }
@@ -21,5 +21,9 @@ public class IntegrationTest {
 
     public static void sayHello(String name) {
         System.out.println("Hello "+ name);
+        System.out.println("Goodbye");
+        System.out.println("Learning Git");
+
+
     }
 }
